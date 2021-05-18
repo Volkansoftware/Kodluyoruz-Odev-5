@@ -1,0 +1,31 @@
+h1{
+    color: #94d0cc;
+    text-align: center;
+    text-transform: uppercase;
+}
+.links{
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+.links h3{
+    color: #eec4c4;
+}
+a{
+    text-decoration: none;
+}
+.urun-baslik{
+    text-align: center;
+    color: #f29191;
+}
+ol{
+    list-style-position: inside;
+}
+.hakkimizda-baslik{
+    text-transform: uppercase;
+    color: #233e8b !important;
+}
+h4{
+    color: #f7a440;
+}
